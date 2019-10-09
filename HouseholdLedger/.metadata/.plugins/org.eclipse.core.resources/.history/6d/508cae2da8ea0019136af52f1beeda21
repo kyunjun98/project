@@ -1,0 +1,9 @@
+package householdLedger;
+
+public class householdLegderDTO {
+	private int ID;
+	private int Deposit;
+	private int Withdrawal;
+	private int Balance;
+	private String Contents;
+}

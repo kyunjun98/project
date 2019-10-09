@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;householdLedger.householdLegderDAO&apos; to &apos;householdLegderDTO&apos;&#x0D;&#x0A;- Original project: &apos;HouseholdLedger&apos;&#x0D;&#x0A;- Original element: &apos;householdLedger.householdLegderDAO&apos;&#x0D;&#x0A;- Renamed element: &apos;householdLedger.householdLegderDTO&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;householdLegderDAO&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;householdLedger{householdLegderDAO.java[householdLegderDAO" matchStrategy="1" name="householdLegderDTO" qualified="false" references="true" similarDeclarations="false" stamp="1570633712597" textual="false" version="1.0"/>
+</session>
